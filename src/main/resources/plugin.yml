@@ -1,0 +1,4 @@
+name: rottenflesh
+version: '1.0'
+main: me.ghostgeorge.rottenflesh.Rottenflesh
+api-version: '1.21'
